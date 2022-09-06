@@ -1,6 +1,6 @@
 package weekOne;
 
-public class exFive {
+public class ex5 {
     public static void main(String[] args){
         int seconds = 60;
         int minutes = 60;

@@ -2,7 +2,7 @@ package weekOne;
 
 import java.util.Scanner;
 
-public class exTwentyOne {
+public class ex21 {
     public static void main(String[] args){
         Scanner reader = new Scanner(System.in);
 

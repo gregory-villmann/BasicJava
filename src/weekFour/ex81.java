@@ -1,0 +1,11 @@
+package weekFour;
+
+public class ex81 {
+    public static void main(String[] args) {
+        PasswordRandomizer randomizer = new PasswordRandomizer(3);
+        System.out.println("Password: " + randomizer.createPassword());
+        System.out.println("Password: " + randomizer.createPassword());
+        System.out.println("Password: " + randomizer.createPassword());
+        System.out.println("Password: " + randomizer.createPassword());
+    }
+}

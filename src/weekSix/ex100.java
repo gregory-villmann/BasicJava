@@ -9,6 +9,6 @@ public class ex100 {
 
         NightSky.print();
         System.out.println("Number of stars: " + NightSky.starsInLastPrint());
-
+        // test
     }
 }
